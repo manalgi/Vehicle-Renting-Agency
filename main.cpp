@@ -2,7 +2,6 @@
 Aufgabe Nr./Task No.: H4
 Nachname/Last,Family Name: GIRYES
 Vorname/First,Given Name: MANAL
-Matr.-nr./Matr.-no.: 3056319
 Uni-Email: manal.giryes@stud.uni-due.de
 Studiengang/Course of Studies: ISE CE
 *******************************************************/
